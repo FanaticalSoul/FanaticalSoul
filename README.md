@@ -1,8 +1,4 @@
-### Currently in Development
-
-Working on:
-- Isometric Game Demo using Gamemaker Studio for Google Play and Steam
-- Dark Souls Card Game ( just for fun )
+- 🔭 I’m currently working on a digital copy of "Dark Souls the Card Game" ( as my college capstone )
 <!--
 **ACfanatic/ACfanatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
