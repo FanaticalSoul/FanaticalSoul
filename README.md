@@ -1,4 +1,5 @@
-- 🔭 I’m currently working on a digital copy of "Dark Souls the Card Game" ( as my college capstone )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fanaticalsoul&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanaticalsoul&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=html,css&exclude_repo=HTML-Games-V2,gfiles,Offline-HTML-Games-Pack)
 <!--
 **ACfanatic/ACfanatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
